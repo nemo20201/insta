@@ -1,0 +1,7 @@
+
+{
+	"version": "12.1",
+	"changelog": "— Fixed downloading;\n— Changed default path to download to /Pictures/Instander;\n— Added Ethereum to donate;\n— Added OTA chagelog on russian.",
+	"changelog-ru": "— Исправлена загрузка фото/видео/сторис;\n— Изменен путь по умолчанию для загрузки на /Pictures/Instander;\n— Добавлен Ethereum для пожертвования;\n— Добавлен журнал изменений в OTA на русском языке.",
+	"link": "https://build.vanutp.dev/instander/instander-v12.1.apk"
+}
